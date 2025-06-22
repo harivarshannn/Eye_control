@@ -25,14 +25,6 @@ This is a Python-based vision project that simulates a **hands-free in-car music
   - Every action is logged to `log.txt` with timestamp
 
 ---
-
-## 🖼️ Demo
-
-> [!TIP]  
-> Coming soon: Add a demo `.mp4` or YouTube link here!
-
----
-
 ## 📂 Project Structure
 
 project/
@@ -65,10 +57,15 @@ Control using:
        Mallipoo - Roja
        Chinna Chinna Aasai - Roja
       Neeyum Nalla Iru - Sarpatta
+
+  
 👨‍💻 Author
 Made with ❤️ by HARIVARSHAN N
 💼 LinkedIn: www.linkedin.com/in/harivarshan-n-752282299
 📫 GitHub: https://github.com/harivarshannn
+
+
+
 
 🏁 Future Improvements
 🎙️ Add voice command support
