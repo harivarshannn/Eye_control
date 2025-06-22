@@ -1,0 +1,61 @@
+[2025-06-21 19:15:14] Blink -> Play
+[2025-06-21 19:15:23] Blink -> Pause
+[2025-06-21 19:15:45] Blink -> Play
+[2025-06-21 19:15:46] Gaze Right -> Next Track
+[2025-06-21 19:15:49] Gaze Right -> Next Track
+[2025-06-21 19:15:53] Gaze Right -> Next Track
+[2025-06-21 19:16:02] Gaze Left -> Previous Track
+[2025-06-21 19:16:02] Blink -> Pause
+[2025-06-21 19:16:07] Gaze Right -> Next Track
+[2025-06-21 19:16:08] Blink -> Play
+[2025-06-21 19:16:09] Gaze Left -> Previous Track
+[2025-06-21 19:16:09] Blink -> Pause
+[2025-06-21 19:16:10] Gaze Right -> Next Track
+[2025-06-21 19:16:12] Gaze Right -> Next Track
+[2025-06-21 19:16:13] Blink -> Play
+[2025-06-21 19:16:13] Gaze Right -> Next Track
+[2025-06-21 19:16:14] Gaze Right -> Next Track
+[2025-06-21 19:16:15] Blink -> Pause
+[2025-06-21 19:16:15] Gaze Left -> Previous Track
+[2025-06-21 19:16:17] Gaze Right -> Next Track
+[2025-06-21 19:16:18] Gaze Right -> Next Track
+[2025-06-21 19:16:19] Gaze Right -> Next Track
+[2025-06-21 19:18:56] Gaze Right -> Next Track
+[2025-06-21 19:19:05] Gaze Right -> Next Track
+[2025-06-21 19:19:12] Gaze Left -> Previous Track
+[2025-06-21 19:19:33] Gaze Right -> Next Track
+[2025-06-21 19:19:50] Gaze Right -> Next Track
+[2025-06-21 19:19:56] Gaze Right -> Next Track
+[2025-06-21 19:25:19] Gaze Right -> Next Track
+[2025-06-21 19:25:22] Gaze Right -> Next Track
+[2025-06-21 19:25:25] Gaze Right -> Next Track
+[2025-06-21 19:25:28] Gaze Right -> Next Track
+[2025-06-21 19:25:36] Gaze Right -> Next Track
+[2025-06-21 19:25:39] Gaze Right -> Next Track
+[2025-06-21 19:25:56] Gaze Right -> Next Track
+[2025-06-21 19:26:18] Gaze Right -> Next Track
+[2025-06-21 19:36:07] Gaze Right -> Next Track
+[2025-06-21 19:36:10] Gaze Right -> Next Track
+[2025-06-21 19:36:13] Gaze Right -> Next Track
+[2025-06-21 19:36:16] Gaze Right -> Next Track
+[2025-06-21 19:36:19] Gaze Right -> Next Track
+[2025-06-21 19:36:21] Gaze Right -> Next Track
+[2025-06-21 19:36:28] Gaze Right -> Next Track
+[2025-06-21 19:42:19] Blink -> Play
+[2025-06-21 19:42:22] Gaze Right -> Next Track
+[2025-06-21 19:42:25] Gaze Right -> Next Track
+[2025-06-21 19:42:28] Gaze Right -> Next Track
+[2025-06-21 19:42:31] Gaze Right -> Next Track
+[2025-06-21 19:42:34] Gaze Left -> Previous Track
+[2025-06-21 19:42:37] Blink -> Pause
+[2025-06-21 19:42:40] Gaze Right -> Next Track
+[2025-06-21 19:42:47] Gaze Right -> Next Track
+[2025-06-21 19:42:50] Blink -> Play
+[2025-06-21 19:42:56] Blink -> Pause
+[2025-06-21 19:43:04] Gaze Right -> Next Track
+[2025-06-22 08:57:47] Gaze Left -> Previous Track
+[2025-06-22 08:57:51] Gaze Left -> Previous Track
+[2025-06-22 08:57:55] Thumbs Up -> Play
+[2025-06-22 08:57:58] Gaze Right -> Next Track
+[2025-06-22 08:58:06] Thumbs Up -> Pause
+[2025-06-22 08:58:13] Thumbs Up -> Play
